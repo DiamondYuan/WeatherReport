@@ -12,4 +12,4 @@ WORKDIR /weather
 
 RUN npm install
 
-CMD ["node /weather/index.js"]
+CMD ["node index.js"]
